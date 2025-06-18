@@ -4,7 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/vamsiprasad-ctrl/movie-app)
 ![GitHub code size](https://img.shields.io/github/languages/code-size/vamsiprasad-ctrl/movie-app)
 ![GitHub top language](https://img.shields.io/github/languages/top/vamsiprasad-ctrl/movie-app)
-[![License: MIT](https://img.shields.io/github/license/vamsiprasad-ctrl/movie-app?style=for-the-badge)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-red.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A responsive and user-friendly Movie App to explore trending films, search by title, and view movie details using modern JavaScript and external APIs.
 
